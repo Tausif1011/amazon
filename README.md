@@ -1,2 +1,4 @@
 # amazon
-it is Ecommerce
+it is Ecommerce website
+A to Z product seller
+
